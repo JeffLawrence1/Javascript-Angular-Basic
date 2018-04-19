@@ -1,0 +1,11 @@
+/* * {
+    background-color: rgb(135, 226, 93);
+} */
+
+.odd {
+    background-color: blue;
+}
+
+.even {
+    background-color: rgb(196, 32, 32);
+}
